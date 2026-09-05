@@ -1,4 +1,4 @@
-This project is the 3rd version of miniMAC, but this time using [a crude PDK abstraction layer](https://github.com/YannGuidon/IHP_SG13_cells) and simulations say it works as intended. This version targets the IHP26b run and updates the toolchain config, not the Verilog source code or the doc.
+This project is the 3rd version of miniMAC, but this time using [a crude PDK abstraction layer](https://github.com/YannGuidon/IHP_SG13_cells) and simulations say it works as intended. This version targets the [IHP26b](https://app.tinytapeout.com/shuttles/ttihp26b) run and updates the toolchain config, not the Verilog source code or the doc.
 
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
